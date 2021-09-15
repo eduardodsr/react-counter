@@ -1,2 +1,2 @@
-# teste
+# react-counter
 Created with CodeSandbox
